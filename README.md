@@ -39,9 +39,9 @@ Here are some ideas to get you started:
 <a href="http://lattes.cnpq.br/7666845951657212">
 <img src="https://img.shields.io/badge/-Lattes-orange?style=flat-square">
 </a>
-<a href="https://jclizar.github.io/">
+<!--<a href="https://jclizar.github.io/">
 <img src="https://img.shields.io/badge/ -CV-blue?style=flat-square">
-</a> 
+</a>-->
 <a href="https://www.credly.com/badges/68cc247f-53a8-4433-a32b-acf0fccad32c/linked_in">
 <img src="https://img.shields.io/badge/Microsoft-Badge-orange?style=flat-square">
 </a>
