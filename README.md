@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 
 <div>
 <h1> Hello! I'm Jessica <img src="./img/jess.gif" width="4%"> </h1>
-<img height="175em" src="https://github-readme-stats.vercel.app/api?username=jclizar&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide=issues"/>
-<img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclizar&layout=compact&langs_count=7&theme=great-gatsby"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=jclizar&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true&hide=issues"/>
+<img height="166em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jclizar&layout=compact&langs_count=7&theme=great-gatsby"/>
 </div>
 
 <div width="100%">
